@@ -11,4 +11,5 @@ Untuk mengubah konfigurasi database vnstat sangatlah mudah, namun untuk lebih me
    wget https://raw.githubusercontent.com/zesssttt/vnstat/main/vnstat.conf
 
 3. Selanjutnya silahkan ketik perintah untuk restart vnstat berikut ini:
+
    service vnstat restart
