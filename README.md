@@ -1,5 +1,5 @@
 1. install paket vnstati2 dan vnstat2
-2. copy file vnstati.zip ekstar pada folder www
+2. cd www wget https://raw.githubusercontent.com/zesssttt/vnstat/main/index.html && wget https://raw.githubusercontent.com/zesssttt/vnstat/main/vnstati.sh
 3. buat scheduled */5 * * * * /www/vnstati/vnstati.sh >/dev/null 2>&1
 
 Mengubah Konfigurasi Database Vnstat
