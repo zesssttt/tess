@@ -8,11 +8,7 @@ Untuk mengubah konfigurasi database vnstat sangatlah mudah, namun untuk lebih me
 
 1. Pertama, pastikan internet kalian sudah jalan. Kemudian buka terminal lalu paste perintah berikut ini:
 
-   cd /etc
-
-   rm vnstat.conf
-
-   wget https://raw.githubusercontent.com/zesssttt/vnstat/main/vnstat.conf
+   cd /etc && rm vnstat.conf && wget https://raw.githubusercontent.com/zesssttt/vnstat/main/vnstat.conf
 
 3. Selanjutnya silahkan ketik perintah untuk restart vnstat berikut ini:
 
